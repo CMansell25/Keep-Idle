@@ -1,6 +1,6 @@
 ## Keep-Idle
 -Make my computer stay on and not sleep (settings wont change it, and keep my teams green light on.                                                                                                                                                                              
--The powershell file will turn capslock on and off for a split second every 5 mins and not allow my screen to power off.                                                                                                                                                         
+-The powershell file will turn capslock on and off for a split second every 5 mins and keep my screen on.                                                                                                                                                         
 -The vbs file will run the powershell file without it popping up on my screen and or any tabs so it can run hidden and out of the way.                                                                                                                               
 
 # Instructions
