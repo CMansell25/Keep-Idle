@@ -1,7 +1,7 @@
 ## Keep-Idle
-Make my computer stay on and not sleep (settings wont change it, and keep my teams green light on.                                                                                                       
-The powershell file will turn capslock on and off for a split second every 5 mins and not allow my screen to power off.
-The vbs file will allow me to run the powershell file without it popping up on my screen and or any tabs so it can run hidden and out of the way.
+-Make my computer stay on and not sleep (settings wont change it, and keep my teams green light on.                                                                                                                                                                              
+-The powershell file will turn capslock on and off for a split second every 5 mins and not allow my screen to power off.                                                                                                                                                         
+-The vbs file will allow me to run the powershell file without it popping up on my screen and or any tabs so it can run hidden and out of the way.                                                                                                                               
 
 # Instructions
 -Download both files, make sure your vbs file gets the correct file path inside the code for the .bat file.                                                                                                                                                                       
